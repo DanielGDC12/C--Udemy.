@@ -1,0 +1,16 @@
+E:\Visual Codes\Enumeração\Enumeracao\Enumeracao\bin\Debug\net5.0\Enumeracao.exe
+E:\Visual Codes\Enumeração\Enumeracao\Enumeracao\bin\Debug\net5.0\Enumeracao.deps.json
+E:\Visual Codes\Enumeração\Enumeracao\Enumeracao\bin\Debug\net5.0\Enumeracao.runtimeconfig.json
+E:\Visual Codes\Enumeração\Enumeracao\Enumeracao\bin\Debug\net5.0\Enumeracao.runtimeconfig.dev.json
+E:\Visual Codes\Enumeração\Enumeracao\Enumeracao\bin\Debug\net5.0\Enumeracao.dll
+E:\Visual Codes\Enumeração\Enumeracao\Enumeracao\bin\Debug\net5.0\ref\Enumeracao.dll
+E:\Visual Codes\Enumeração\Enumeracao\Enumeracao\bin\Debug\net5.0\Enumeracao.pdb
+E:\Visual Codes\Enumeração\Enumeracao\Enumeracao\obj\Debug\net5.0\Enumeracao.csproj.AssemblyReference.cache
+E:\Visual Codes\Enumeração\Enumeracao\Enumeracao\obj\Debug\net5.0\Enumeracao.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Codes\Enumeração\Enumeracao\Enumeracao\obj\Debug\net5.0\Enumeracao.AssemblyInfoInputs.cache
+E:\Visual Codes\Enumeração\Enumeracao\Enumeracao\obj\Debug\net5.0\Enumeracao.AssemblyInfo.cs
+E:\Visual Codes\Enumeração\Enumeracao\Enumeracao\obj\Debug\net5.0\Enumeracao.csproj.CoreCompileInputs.cache
+E:\Visual Codes\Enumeração\Enumeracao\Enumeracao\obj\Debug\net5.0\Enumeracao.dll
+E:\Visual Codes\Enumeração\Enumeracao\Enumeracao\obj\Debug\net5.0\ref\Enumeracao.dll
+E:\Visual Codes\Enumeração\Enumeracao\Enumeracao\obj\Debug\net5.0\Enumeracao.pdb
+E:\Visual Codes\Enumeração\Enumeracao\Enumeracao\obj\Debug\net5.0\Enumeracao.genruntimeconfig.cache
