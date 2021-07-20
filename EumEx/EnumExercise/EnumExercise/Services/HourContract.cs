@@ -1,22 +1,27 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace EnumExercise.Services
 {
     class HourContract
     {
 
-        public int hours { get; set; }
-        public double valuePerHour { get; set; }
-        public DateTime date { get; set; }
+        public int Hours { get; set; }
+        public double ValuePerHour { get; set; }
+        public DateTime Date { get; set; }
 
 
-        public double totalValue()
+        public HourContract() { }
+
+        public HourContract(int hours, double valuePerHour, DateTime date)
         {
-            return valuePerHour * hours;
+            Hours = hours;
+            ValuePerHour = valuePerHour;
+            Date = date;
+        }
+
+        public double TotalValue()
+        {
+            return ValuePerHour * Hours;
         }
     }
 }
