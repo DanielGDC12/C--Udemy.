@@ -29,6 +29,7 @@ namespace Enumeracao
 
             Console.WriteLine(txt);
             Console.WriteLine(os);
+            Console.WriteLine(order);
 
         }
     }
