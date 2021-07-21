@@ -1,0 +1,16 @@
+E:\Visual Codes\Enumeração\Enumeracao\StringBuilder\StringBuilderExemple\StringBuilderExemple\bin\Debug\net5.0\StringBuilderExemple.exe
+E:\Visual Codes\Enumeração\Enumeracao\StringBuilder\StringBuilderExemple\StringBuilderExemple\bin\Debug\net5.0\StringBuilderExemple.deps.json
+E:\Visual Codes\Enumeração\Enumeracao\StringBuilder\StringBuilderExemple\StringBuilderExemple\bin\Debug\net5.0\StringBuilderExemple.runtimeconfig.json
+E:\Visual Codes\Enumeração\Enumeracao\StringBuilder\StringBuilderExemple\StringBuilderExemple\bin\Debug\net5.0\StringBuilderExemple.runtimeconfig.dev.json
+E:\Visual Codes\Enumeração\Enumeracao\StringBuilder\StringBuilderExemple\StringBuilderExemple\bin\Debug\net5.0\StringBuilderExemple.dll
+E:\Visual Codes\Enumeração\Enumeracao\StringBuilder\StringBuilderExemple\StringBuilderExemple\bin\Debug\net5.0\ref\StringBuilderExemple.dll
+E:\Visual Codes\Enumeração\Enumeracao\StringBuilder\StringBuilderExemple\StringBuilderExemple\bin\Debug\net5.0\StringBuilderExemple.pdb
+E:\Visual Codes\Enumeração\Enumeracao\StringBuilder\StringBuilderExemple\StringBuilderExemple\obj\Debug\net5.0\StringBuilderExemple.csproj.AssemblyReference.cache
+E:\Visual Codes\Enumeração\Enumeracao\StringBuilder\StringBuilderExemple\StringBuilderExemple\obj\Debug\net5.0\StringBuilderExemple.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Codes\Enumeração\Enumeracao\StringBuilder\StringBuilderExemple\StringBuilderExemple\obj\Debug\net5.0\StringBuilderExemple.AssemblyInfoInputs.cache
+E:\Visual Codes\Enumeração\Enumeracao\StringBuilder\StringBuilderExemple\StringBuilderExemple\obj\Debug\net5.0\StringBuilderExemple.AssemblyInfo.cs
+E:\Visual Codes\Enumeração\Enumeracao\StringBuilder\StringBuilderExemple\StringBuilderExemple\obj\Debug\net5.0\StringBuilderExemple.csproj.CoreCompileInputs.cache
+E:\Visual Codes\Enumeração\Enumeracao\StringBuilder\StringBuilderExemple\StringBuilderExemple\obj\Debug\net5.0\StringBuilderExemple.dll
+E:\Visual Codes\Enumeração\Enumeracao\StringBuilder\StringBuilderExemple\StringBuilderExemple\obj\Debug\net5.0\ref\StringBuilderExemple.dll
+E:\Visual Codes\Enumeração\Enumeracao\StringBuilder\StringBuilderExemple\StringBuilderExemple\obj\Debug\net5.0\StringBuilderExemple.pdb
+E:\Visual Codes\Enumeração\Enumeracao\StringBuilder\StringBuilderExemple\StringBuilderExemple\obj\Debug\net5.0\StringBuilderExemple.genruntimeconfig.cache
