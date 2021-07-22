@@ -1,0 +1,5 @@
+E:\Visual Codes\Enumeração\Enumeracao\ExercicioClass\ExercicioClasses\ExercicioClasses\obj\Debug\net5.0\ExercicioClasses.csproj.AssemblyReference.cache
+E:\Visual Codes\Enumeração\Enumeracao\ExercicioClass\ExercicioClasses\ExercicioClasses\obj\Debug\net5.0\ExercicioClasses.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Codes\Enumeração\Enumeracao\ExercicioClass\ExercicioClasses\ExercicioClasses\obj\Debug\net5.0\ExercicioClasses.AssemblyInfoInputs.cache
+E:\Visual Codes\Enumeração\Enumeracao\ExercicioClass\ExercicioClasses\ExercicioClasses\obj\Debug\net5.0\ExercicioClasses.AssemblyInfo.cs
+E:\Visual Codes\Enumeração\Enumeracao\ExercicioClass\ExercicioClasses\ExercicioClasses\obj\Debug\net5.0\ExercicioClasses.csproj.CoreCompileInputs.cache
